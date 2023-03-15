@@ -52,7 +52,10 @@
     border-radius: 5px;
     padding: 15px 40px;
 }
-
+.img_hover_width :hover{
+    width: 50% ;
+    cursor: pointer !important;
+}
 .img_box {
     background: var(--color-white);
     border-radius: 10px;
